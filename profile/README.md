@@ -1,4 +1,4 @@
 # Nightbreak
 
-Welcome to the homepage of Nightbreak, we are the organization behind the Midnight browser Project.
+Welcome to the homepage of Nightbreak, the organization behind the Noctus Project.
 
